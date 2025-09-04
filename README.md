@@ -6,6 +6,10 @@ Projects 1 and 2, using my Excel skills gained from tutorials for Luke Barousse.
 
 
 
+https://github.com/user-attachments/assets/fe33b66c-71ef-43d9-ab27-9e4c3665e54d
+
+
+
 
 ## Project 2 - Salary Analysis  
 <img width="1138" height="247" alt="Screenshot of Salary Analysis Final" src="https://github.com/user-attachments/assets/00d6703b-e988-4700-8c8d-e85e44a74dd3" />
