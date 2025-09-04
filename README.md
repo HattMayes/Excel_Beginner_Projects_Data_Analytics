@@ -11,4 +11,6 @@ https://github.com/user-attachments/assets/57ab8ce1-8889-41b0-bc1a-8e42add1d6e3
 
 
 ## Project 2 - Salary Analysis  
+<img width="969" height="289" alt="Screenshot of Salary Analysis Final" src="https://github.com/user-attachments/assets/26791696-df5d-4195-8046-eb50dfce14d4" />  
+
 <img width="1138" height="247" alt="Screenshot of Salary Analysis Final" src="https://github.com/user-attachments/assets/00d6703b-e988-4700-8c8d-e85e44a74dd3" />
