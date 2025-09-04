@@ -2,11 +2,10 @@
 Projects 1 and 2, using my Excel skills gained from tutorials for Luke Barousse. Projects contain tools and functions like PivotTables, Power Query Editor, PowerPivot, and DAX.  
 
 ## Project 1 - Salary Dashboard  
-<img width="1062" height="503" alt="Screenshot of Salary Dashboard Final" src="https://github.com/user-attachments/assets/1a53da3f-b53c-4ad2-b61d-ac08b608cf59" />
+https://github.com/user-attachments/assets/57ab8ce1-8889-41b0-bc1a-8e42add1d6e3
 
 
 
-https://github.com/user-attachments/assets/fe33b66c-71ef-43d9-ab27-9e4c3665e54d
 
 
 
