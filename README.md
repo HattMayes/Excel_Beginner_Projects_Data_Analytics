@@ -1,8 +1,6 @@
 # Excel_Beginner_Projects_Data_Analytics
 Projects 1 and 2, using my Excel skills gained from tutorials by Luke Barousse. Projects contain tools and functions like PivotTables, Power Query Editor, PowerPivot, and DAX.  
 
-[View the Project Folders Here](Excel_Beginner_Projects_Data_Analytics)
-
 ## Project 1 - Salary Dashboard  
 This Job Salary dashboard was created using data from over 30,000 job postings collated by Luke Barousse. The jobs are global listings and thus contain information relating to the job title, the country it is advertised for, and what type of contract the job listing is. The video below shows how the interactive dashboard can be used to change these filters in order to review the median salary, top job platform, and the job count for multiple or specific data roles.  
 
